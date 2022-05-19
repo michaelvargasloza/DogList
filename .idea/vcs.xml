@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android-WebView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Embol-T2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Embolt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Loyola" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OSM_maps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TRS_cliente" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TRS_tracking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebViewKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebViewKotlinUpload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebViewKotlinUploadFile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/paint_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tres_en_raya" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trsnotificaciones" vcs="Git" />
+  </component>
+</project>
